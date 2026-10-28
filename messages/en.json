@@ -1,0 +1,137 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "visionary": "Our Visionary",
+    "network": "Our Network",
+    "team": "Our Team",
+    "treatments": "Looking for Treatment",
+    "contact": "Contact",
+    "bookAppointment": "Book Appointment",
+    "language": "Language"
+  },
+  "hero": {
+    "tagline": "World-Class Medical Care",
+    "slide1Title": "Healing Beyond Boundaries",
+    "slide1Desc": "Access premium healthcare across Asia's finest hospitals, guided by expert surgeons with international credentials.",
+    "slide2Title": "Precision Joint Replacement",
+    "slide2Desc": "Specialist expertise in hip, knee, and spine surgeries with clinical fellowship training from Birmingham, UK.",
+    "slide3Title": "Advanced Cancer Care",
+    "slide3Desc": "Partner with leading oncology centres including Kokilaben, Global Hospitals, and Breach Candy.",
+    "slide4Title": "10+ Premium Hospitals",
+    "slide4Desc": "From Singapore to Mumbai — curated network of internationally accredited hospitals for every specialty.",
+    "bookCta": "Book Appointment",
+    "learnMore": "Learn More",
+    "viewHospitals": "View Hospitals"
+  },
+  "stats": {
+    "hospitals": "Partner Hospitals",
+    "specialties": "Specialties",
+    "patients": "Patients Served",
+    "countries": "Countries Supported"
+  },
+  "sections": {
+    "featuredHospitals": "Featured Hospitals",
+    "featuredHospitalsDesc": "Internationally accredited partner hospitals, each selected for clinical excellence and patient outcomes.",
+    "whyPhoenix": "Why Phoenix",
+    "whyPhoenixTitle": "Your Trusted Medical Travel Partner",
+    "treatments": "Specialties",
+    "treatmentsTitle": "Treatments We Facilitate",
+    "ourTeam": "Our People",
+    "ourTeamTitle": "Meet the Team",
+    "bookToday": "Get Started",
+    "bookTodayTitle": "Book Your Consultation Today",
+    "bookTodayDesc": "Fill in the form and our medical coordinators will contact you within 24 hours with a personalized treatment plan."
+  },
+  "whyUs": {
+    "expertTitle": "Expert Guidance",
+    "expertDesc": "Led by an MBBS, D-Ortho surgeon with fellowship from Birmingham, UK — your care is in expert hands.",
+    "globalTitle": "Global Network",
+    "globalDesc": "Partnerships with 10+ premium hospitals across Singapore and India, covering 20+ specialties.",
+    "multilingualTitle": "Multi-Lingual Support",
+    "multilingualDesc": "We serve patients in 7 languages — Arabic, French, English, Indonesian, Malay, Portuguese, and Swahili.",
+    "endToEndTitle": "End-to-End Care",
+    "endToEndDesc": "From consultation to travel arrangements, accommodation, and post-treatment follow-up.",
+    "accreditedTitle": "Accredited Hospitals",
+    "accreditedDesc": "All partner hospitals are JCI or NABH accredited, ensuring world-class standards of care.",
+    "transparentTitle": "Transparent Pricing",
+    "transparentDesc": "No hidden fees. We provide detailed cost estimates before you commit to any treatment."
+  },
+  "form": {
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "country": "Country",
+    "treatmentType": "Treatment Type",
+    "hospitalPreference": "Hospital Preference",
+    "message": "Message / Medical History",
+    "selectTreatment": "Select Treatment...",
+    "selectHospital": "Select Hospital...",
+    "noPreference": "No preference",
+    "submit": "Submit Appointment Request",
+    "sending": "Sending...",
+    "successTitle": "Request Submitted!",
+    "successDesc": "We'll contact you within 24 hours.",
+    "formPoints": [
+      "Free initial consultation with our specialist coordinator",
+      "Detailed cost estimate before commitment",
+      "Visa and travel assistance included",
+      "Airport pickup and accommodation arrangement",
+      "Post-treatment follow-up support"
+    ]
+  },
+  "footer": {
+    "about": "Welcome to Phoenix – Your Ultimate Destination for Exceptional Medical Travel. Our renowned health support and medical consultant company is led by an expert surgeon with extensive credentials, including MBBS, D-Ortho from Mumbai, and a clinical attachment Fellowship in Hip and Knee Joint Replacement from Birmingham, UK.",
+    "quickLinks": "Quick Links",
+    "treatments": "Treatments",
+    "contact": "Contact",
+    "careers": "Careers",
+    "getQuote": "Get a Quote",
+    "partners": "Partners",
+    "forDoctors": "For Doctors",
+    "associateWithUs": "Associate with Us",
+    "rights": "Powered and managed by Phoenix Global Wellness Private Ltd | All Rights Reserved"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help — reach out anytime",
+    "phone": "Phone / WhatsApp",
+    "emailLabel": "Email",
+    "location": "Location",
+    "locationValue": "Mumbai, Maharashtra, India",
+    "hours": "Office Hours",
+    "hoursValue": "Mon–Sat: 9:00 AM – 7:00 PM IST",
+    "sendMessage": "Send a Message",
+    "subject": "Subject",
+    "messagePlaceholder": "Your message..."
+  },
+  "about": {
+    "title": "Our Visionary",
+    "subtitle": "The expertise behind Phoenix Global Wellness",
+    "founderLabel": "About the Founder",
+    "founderTitle": "A Surgeon's Vision for Global Healthcare",
+    "founderDesc1": "Welcome to Phoenix — Your Ultimate Destination for Exceptional Medical Travel. Our renowned health support and medical consultant company is led by an expert surgeon with extensive credentials.",
+    "founderDesc2": "With a focus on joint replacement, orthopedic trauma, and spine surgeries, our surgeon's expertise ensures top-notch care and unparalleled outcomes for patients from across the globe."
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "The people dedicated to your care"
+  },
+  "book": {
+    "title": "Book an Appointment",
+    "subtitle": "Our coordinators respond within 24 hours",
+    "patientDetails": "Patient Details"
+  },
+  "treatments": {
+    "about": "About This Treatment",
+    "benefits": "Key Benefits",
+    "quickEnquiry": "Quick Enquiry",
+    "quickEnquiryDesc": "Get a personalized cost estimate within 24 hours"
+  },
+  "hospital": {
+    "about": "About the Hospital",
+    "facilities": "World-Class Facilities",
+    "specialties": "Key Specialties",
+    "bookAt": "Book at This Hospital"
+  }
+}
